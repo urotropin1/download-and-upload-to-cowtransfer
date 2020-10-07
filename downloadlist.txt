@@ -1,1 +1,1 @@
-https://github.com/MediaBrowser/Emby.Releases/releases/download/4.5.1.0/emby-server-synology_4.5.1.0_x86_64.spk
+https://github.com/CopyTranslator/CopyTranslator/releases/download/v10.0.0-beta.2/copytranslator.Setup.10.0.0-beta.2.exe
